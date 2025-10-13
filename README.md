@@ -1,6 +1,6 @@
 <!-- 🖼️ Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Samallen/Samallen/main/banner.png" alt="Code with Sam Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Samallen/Samallen/main/banner.png.png" alt="Code with Sam Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey there 👋, I'm Sam</h1>
