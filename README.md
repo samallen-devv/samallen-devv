@@ -1,10 +1,10 @@
 <!-- 🖼️ Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Samallen/Samallen/main/banner.png.png" alt="Code with Sam Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Samallenn/Samallenn/main/banner.png.png" alt="Code with Sam Banner" width="100%" />
 </p>
 
-<h1 align="center">Hey there 👋, I'm Sam</h1>
-<h3 align="center">💻 Flutter Developer | 🧠 Problem Solver | 🌐 Full Stack Enthusiast</h3>
+<h1 align="center">Hey there 👋, I'm Sami</h1>
+<h3 align="center">💻 Flutter Developer | 🧠 Problem Solver | 🌐 Beckend Developer</h3>
 <h4 align="center">✨ Code with Sam ✨</h4>
 
 ---
@@ -42,15 +42,15 @@ Whether it's mobile, web, or backend — I love bringing ideas to life with code
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samallen&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samallenn&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samallen&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samallenn&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samallen&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samallenn&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -59,7 +59,7 @@ Whether it's mobile, web, or backend — I love bringing ideas to life with code
 <p align="center">
   <a href="https://www.linkedin.com/in/mohd-sami-7502582a1/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:mohdsami.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/Samallen"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://github.com/Samallenn"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
@@ -71,5 +71,5 @@ Whether it's mobile, web, or backend — I love bringing ideas to life with code
 
 ### ⚡ Profile Visitors
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samallen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Samallenn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
