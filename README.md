@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hey👋, I'm Sami</h1>
-<h3 align="center">💻 Flutter Developer | 🧠 Problem Solver & Competitive Programmer | 🌐 Beckend Developer</h3>
+<h3 align="center">💻 Flutter Developer | 🧠 Problem Solver & Competitive Programmer | 🌐 Backend Developer</h3>
 <h4 align="center">✨ Code with Sam ✨</h4>
 
 ---
