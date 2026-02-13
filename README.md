@@ -1,10 +1,7 @@
-<!-- 🖼️ Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Samallenn/Samallenn/main/banner.png.png" alt="Code with Sam Banner" width="100%" />
-</p>
 
-<h1 align="center">Hey there 👋, I'm Sami</h1>
-<h3 align="center">💻 Flutter Developer | 🧠 Problem Solver | 🌐 Beckend Developer</h3>
+
+<h1 align="center">Hey👋, I'm Sami</h1>
+<h3 align="center">💻 Flutter Developer | 🧠 Problem Solver & Competitive Programmer | 🌐 Beckend Developer</h3>
 <h4 align="center">✨ Code with Sam ✨</h4>
 
 ---
@@ -15,7 +12,7 @@ I focus on writing clean code, building intuitive UI, and connecting logic with 
 Whether it's mobile, web, or backend — I love bringing ideas to life with code.
 
 - 🔭 Currently building **cross-platform apps with Flutter & Firebase**
-- 🌱 Exploring **advanced animations, APIs, and backend systems**
+- 🌱 Exploring **advanced APIs, and backend systems**
 - 💬 Ask me about **Flutter, Firebase, Python, Django, and DSA**
 - ⚡ Motto: *"Code with logic, build with purpose."*
 
@@ -42,15 +39,15 @@ Whether it's mobile, web, or backend — I love bringing ideas to life with code
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samallenn&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samallen-devv&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samallenn&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samallen-devv&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samallenn&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samallen-devv&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -59,7 +56,7 @@ Whether it's mobile, web, or backend — I love bringing ideas to life with code
 <p align="center">
   <a href="https://www.linkedin.com/in/mohd-sami-7502582a1/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:mohdsami.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/Samallenn"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://github.com/samallen-devv"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
@@ -71,5 +68,5 @@ Whether it's mobile, web, or backend — I love bringing ideas to life with code
 
 ### ⚡ Profile Visitors
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samallenn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=samallen-devv&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
