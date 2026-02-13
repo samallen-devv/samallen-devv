@@ -38,17 +38,12 @@ Whether it's mobile, web, or backend — I love bringing ideas to life with code
 ---
 
 ### 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samallen-devv&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samallen-devv&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samallen-devv&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
