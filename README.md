@@ -101,6 +101,18 @@ Focused on **clean code, scalable systems, and intuitive UI**.
 
 ---
 
+<!-- ======================= EXTRA GITHUB STATS ======================= -->
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samallen-devv&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samallen-devv&theme=tokyonight"/>
+</p>
+
+--
+
 ### 🌐 Connect With Me
 
 <p align="center">
