@@ -98,7 +98,7 @@ Focused on **clean code, scalable systems, and intuitive UI**.
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/users/samallen">
+<a href="https://www.codechef.com/users/sam_allen">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
@@ -106,15 +106,14 @@ Focused on **clean code, scalable systems, and intuitive UI**.
 
 <!-- Optional Stats (uncomment if you want) -->
 
-<!--
+
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CF_USERNAME&theme=tokyonight"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sam_allen&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://codechef-readme-stats.vercel.app/api?username=YOUR_CC_USERNAME&theme=tokyonight"/>
+  <img src="https://codechef-readme-stats.vercel.app/api?username=sam_allen&theme=tokyonight"/>
 </p>
--->
 
 ---
 
