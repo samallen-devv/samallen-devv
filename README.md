@@ -108,10 +108,10 @@ Focused on **clean code, scalable systems, and intuitive UI**.
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samallen-devv&theme=tokyonight"/>
 </p>
--->
+--> 
 
 
 ### 🌐 Connect With Me
